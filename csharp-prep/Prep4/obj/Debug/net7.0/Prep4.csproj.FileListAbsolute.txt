@@ -1,0 +1,15 @@
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/bin/Debug/net7.0/Prep4
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/bin/Debug/net7.0/Prep4.deps.json
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/bin/Debug/net7.0/Prep4.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/bin/Debug/net7.0/Prep4.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/bin/Debug/net7.0/Prep4.pdb
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/refint/Prep4.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.pdb
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/csharp-prep/Prep4/obj/Debug/net7.0/ref/Prep4.dll

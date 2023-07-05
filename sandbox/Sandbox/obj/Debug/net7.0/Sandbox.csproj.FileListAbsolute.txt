@@ -1,0 +1,15 @@
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/bin/Debug/net7.0/Sandbox
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/bin/Debug/net7.0/Sandbox.deps.json
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/bin/Debug/net7.0/Sandbox.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/bin/Debug/net7.0/Sandbox.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/bin/Debug/net7.0/Sandbox.pdb
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/refint/Sandbox.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.pdb
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/sandbox/Sandbox/obj/Debug/net7.0/ref/Sandbox.dll

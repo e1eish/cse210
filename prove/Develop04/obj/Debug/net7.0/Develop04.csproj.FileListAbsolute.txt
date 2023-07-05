@@ -1,0 +1,15 @@
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/bin/Debug/net7.0/Develop04
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/bin/Debug/net7.0/Develop04.deps.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/bin/Debug/net7.0/Develop04.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/bin/Debug/net7.0/Develop04.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/bin/Debug/net7.0/Develop04.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/Develop04.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/Develop04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/Develop04.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/Develop04.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/Develop04.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/Develop04.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/refint/Develop04.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/Develop04.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/Develop04.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prove/Develop04/obj/Debug/net7.0/ref/Develop04.dll

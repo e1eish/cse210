@@ -1,0 +1,15 @@
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/bin/Debug/net7.0/Learning04
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/bin/Debug/net7.0/Learning04.deps.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/bin/Debug/net7.0/Learning04.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/bin/Debug/net7.0/Learning04.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/bin/Debug/net7.0/Learning04.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/Learning04.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/Learning04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/Learning04.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/Learning04.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/Learning04.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/Learning04.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/refint/Learning04.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/Learning04.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/Learning04.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning04/obj/Debug/net7.0/ref/Learning04.dll

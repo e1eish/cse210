@@ -1,0 +1,15 @@
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/bin/Debug/net7.0/abstract-example
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/bin/Debug/net7.0/abstract-example.deps.json
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/bin/Debug/net7.0/abstract-example.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/bin/Debug/net7.0/abstract-example.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/bin/Debug/net7.0/abstract-example.pdb
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/abstract-example.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/abstract-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/abstract-example.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/abstract-example.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/abstract-example.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/abstract-example.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/refint/abstract-example.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/abstract-example.pdb
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/abstract-example.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/abstract-example/obj/Debug/net7.0/ref/abstract-example.dll

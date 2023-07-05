@@ -1,0 +1,15 @@
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/bin/Debug/net7.0/Foundation4
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/bin/Debug/net7.0/Foundation4.deps.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/bin/Debug/net7.0/Foundation4.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/bin/Debug/net7.0/Foundation4.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/bin/Debug/net7.0/Foundation4.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/Foundation4.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/Foundation4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/Foundation4.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/Foundation4.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/Foundation4.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/Foundation4.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/refint/Foundation4.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/Foundation4.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/Foundation4.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation4/obj/Debug/net7.0/ref/Foundation4.dll

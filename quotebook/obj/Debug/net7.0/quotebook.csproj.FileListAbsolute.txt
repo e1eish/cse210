@@ -1,0 +1,15 @@
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/quotebook.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/quotebook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/quotebook.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/quotebook.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/quotebook.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/bin/Debug/net7.0/quotebook
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/bin/Debug/net7.0/quotebook.deps.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/bin/Debug/net7.0/quotebook.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/bin/Debug/net7.0/quotebook.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/bin/Debug/net7.0/quotebook.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/quotebook.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/refint/quotebook.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/quotebook.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/quotebook.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/quotebook/obj/Debug/net7.0/ref/quotebook.dll

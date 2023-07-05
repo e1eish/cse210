@@ -1,0 +1,30 @@
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02.deps.json
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02.pdb
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/refint/Learning02.dll
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.pdb
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023 Spring/CSE 210 - Programming with Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/ref/Learning02.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02.deps.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02.runtimeconfig.json
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/bin/Debug/net7.0/Learning02.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.csproj.AssemblyReference.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.AssemblyInfoInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.AssemblyInfo.cs
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.csproj.CoreCompileInputs.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/refint/Learning02.dll
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.pdb
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/Learning02.genruntimeconfig.cache
+/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/prepare/Learning02/obj/Debug/net7.0/ref/Learning02.dll
