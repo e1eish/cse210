@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = abstract_example
-build_property.ProjectDir = /Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/abstract-example/
+build_property.ProjectDir = /Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210/abstract-example/

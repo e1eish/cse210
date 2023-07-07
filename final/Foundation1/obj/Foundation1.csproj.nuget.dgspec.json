@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation1/Foundation1.csproj": {}
+    "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210/final/Foundation1/Foundation1.csproj": {}
   },
   "projects": {
-    "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation1/Foundation1.csproj": {
+    "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210/final/Foundation1/Foundation1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation1/Foundation1.csproj",
+        "projectUniqueName": "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210/final/Foundation1/Foundation1.csproj",
         "projectName": "Foundation1",
-        "projectPath": "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation1/Foundation1.csproj",
+        "projectPath": "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210/final/Foundation1/Foundation1.csproj",
         "packagesPath": "/Users/ethan_/.nuget/packages/",
-        "outputPath": "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210_projects/final/Foundation1/obj/",
+        "outputPath": "/Users/ethan_/Documents/BYU-I/2023-Spring/CSE_210-Programming_with_Classes/cse210/final/Foundation1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ethan_/.nuget/NuGet/NuGet.Config"
