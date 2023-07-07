@@ -32,9 +32,9 @@ class Program
 
         Console.WriteLine();
         video1.Display();
-        Console.WriteLine();
+        Console.WriteLine("\n");
         video2.Display();
-        Console.WriteLine();
+        Console.WriteLine("\n");
         video3.Display();
         Console.WriteLine();
     }

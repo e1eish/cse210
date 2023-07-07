@@ -15,7 +15,7 @@ public class Running : Activity
         double speed = Math.Round(GetSpeed(), 1);
         double pace = Math.Round(GetPace(), 1);
 
-        return $"{date} Running ({length} minutes) - Distance: {distance} km, Speed: {speed} kph, Pace: {pace} min per km";
+        return $"{date} Running ({length} min) - Distance: {distance} km, Speed: {speed} kph, Pace: {pace} min per km";
     }
 
     public override double GetDistance()

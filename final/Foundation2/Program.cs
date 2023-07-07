@@ -13,7 +13,9 @@ class Program
         Order order1 = new Order(customer1, order1Products);
         
         order1.GetPackingLabel();
+        Console.WriteLine();
         order1.GetShippingLabel();
+        Console.WriteLine();
         order1.DisplayTotalCost();
         Console.WriteLine("\n");
 
@@ -25,7 +27,9 @@ class Program
         Order order2 = new Order(customer2, order2Products);
         
         order2.GetPackingLabel();
+        Console.WriteLine();
         order2.GetShippingLabel();
+        Console.WriteLine();
         order2.DisplayTotalCost();
         Console.WriteLine();
     }

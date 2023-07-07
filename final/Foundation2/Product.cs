@@ -20,6 +20,6 @@ public class Product
 
     public string GetPackingInfo()
     {
-        return $"{_name}: {_productId}";
+        return $"{_name} - {_productId}";
     }
 }
